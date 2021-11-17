@@ -1,9 +1,9 @@
-# Your Project Title
+# Conservation Map
 
 ## Authors
-Name:XXXX
-Email:XXXX
-Program:XXXX
+Name:Tony
+Email:xuanwang@ttu.edu
+Program:Dept.of Geosciences
 
 ## Introduction
 
